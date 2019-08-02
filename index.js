@@ -7,6 +7,7 @@ function myAnimal() {
 
 
 function yourAnimal() {
+  var animal = 'cat'
   return animal 
 
   // How can we make sure that this function
